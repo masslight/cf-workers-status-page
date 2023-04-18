@@ -17,7 +17,7 @@ settings:
 monitors:
   - id: zapehr-com
     name: Homepage
-    url: 'https://zapehr.com'
+    url: 'https://zapehrr.com'
     method: GET
     expectStatus: 200
   - id: docs-zapehr-com
