@@ -15,7 +15,7 @@ settings:
   dayInHistogramNotOperational: ' incident(s)' # xx incident(s) recorded
 
 monitors:
-  - id: zapehr-com
+  - id: zapehr-homepage
     name: Homepage
     url: 'https://zapehr.com'
     method: GET
