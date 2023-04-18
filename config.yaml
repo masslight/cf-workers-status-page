@@ -17,30 +17,30 @@ settings:
 monitors:
   - id: zapehr-com
     name: Homepage
-    url: 'https://zapehrr.com'
+    url: 'https://zapehr.com'
     method: GET
     expectStatus: 200
-  - id: docs-zapehr-com
+  - id: zapehr-documentation
     name: Documentation
-    url: 'https://docss.zapehr.com'
+    url: 'https://docs.zapehr.com/docs'
     method: GET
     expectStatus: 200
-  - id: console-zapehr-com
+  - id: zapehr-console
     name: Console
     url: 'https://console.zapehr.com'
     method: GET
     expectStatus: 200
-  - id: fhir-api-zapehr-com
+  - id: zapehr-fhir-api
     name: FHIR API
     url: 'https://fhir-api.zapehr.com/version'
     method: GET
     expectStatus: 200
-  - id: platform-api-zapehr-com
+  - id: zapehr-platform-api
     name: Platform API
     url: 'https://platform-api.zapehr.com/v1/version'
     method: GET
     expectStatus: 200
-  - id: project-api-zapehr-com
+  - id: zapehr-project-api
     name: Project API
     url: 'https://project-api.zapehr.com/v1/version'
     method: GET
