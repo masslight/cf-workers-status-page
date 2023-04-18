@@ -16,13 +16,13 @@ settings:
 
 monitors:
   - id: zapehr-com
-    name: zapehr.com
+    name: Homepage
     url: 'https://zapehr.com'
     method: GET
     expectStatus: 200
   - id: docs-zapehr-com
     name: Documentation
-    url: 'https://docs.zapehr.com'
+    url: 'https://docss.zapehr.com'
     method: GET
     expectStatus: 200
   - id: console-zapehr-com
