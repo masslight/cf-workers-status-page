@@ -21,11 +21,6 @@ monitors:
     url: 'https://zapehr.com'
     method: GET
     expectStatus: 200
-  - id: zapehr-documentation
-    name: Documentation
-    url: 'https://docs.zapehr.com/docs'
-    method: GET
-    expectStatus: 200
   - id: zapehr-console
     name: Console
     url: 'https://console.zapehr.com'
